@@ -1,3 +1,1 @@
 # github-workshop
-
--Luís Monteiro
